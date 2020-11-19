@@ -1,4 +1,5 @@
 <img align="right" src="https://github.com/acidanthera/OpenCorePkg/raw/master/Docs/Logos/OpenCore_with_text_Small.png" alt="OpenCore 0.6.3" width="225">
+
 # ASUS-X550VC-Hackintosh
 The repo aims to provide EFI files for ASUS X550VC laptop. Tested working on Big Sur.
 <br>
