@@ -1,2 +1,5 @@
 # IDEA IDE
 .idea/
+
+# MacOS related files
+**/.DS_Store

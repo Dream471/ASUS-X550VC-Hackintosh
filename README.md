@@ -6,7 +6,7 @@ The repo aims to provide EFI files for ASUS X550VC laptop. Tested working on Big
 please give it a star if you find it helpful !
 <br>
 ![Last Commit](https://img.shields.io/github/last-commit/FawenYo/ASUS-X550VC-Hackintosh.svg?color=green&label=last-commit)
-![OpenCore](https://img.shields.io/badge/OpenCore-v0.6.3-green)
+![OpenCore](https://img.shields.io/badge/OpenCore-v0.6.4-green)
 ![MacOS](https://img.shields.io/badge/Mac%20OS-v11.0.1%20(20B29)-blue)
 ![Screenshot](https://i.imgur.com/UTejby1.png)
 ## Notes

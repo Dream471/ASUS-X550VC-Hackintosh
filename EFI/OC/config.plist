@@ -211,7 +211,7 @@
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>layout-id</key>
-				<data>AwAAAA==</data>
+				<data>HAAAAA==</data>
 				<key>model</key>
 				<string>7 Series/C216 Chipset Family High Definition Audio Controller</string>
 			</dict>
@@ -226,7 +226,7 @@
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>model</key>
-				<string>Intel HD Graphics 4000</string>
+				<string>Intel 3rd Gen Core processor Graphics Controller</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -952,7 +952,7 @@
 			<key>AuthRestart</key>
 			<false/>
 			<key>BootProtect</key>
-			<string>Bootstrap</string>
+			<string>None</string>
 			<key>DmgLoading</key>
 			<string>Any</string>
 			<key>EnablePassword</key>
@@ -965,10 +965,10 @@
 			<data></data>
 			<key>PasswordSalt</key>
 			<data></data>
-			<key>SecureBootModel</key>
-			<string>Disabled</string>
 			<key>ScanPolicy</key>
 			<integer>3870467</integer>
+			<key>SecureBootModel</key>
+			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -1068,12 +1068,12 @@
 			<string>C02047501QX0000FB</string>
 			<key>ProcessorType</key>
 			<integer>1793</integer>
-			<key>SystemMemoryStatus</key>
-			<string>Auto</string>
 			<key>ROM</key>
 			<data>bHHZTL2p</data>
 			<key>SpoofVendor</key>
 			<true/>
+			<key>SystemMemoryStatus</key>
+			<string>Auto</string>
 			<key>SystemProductName</key>
 			<string>MacBookPro16,2</string>
 			<key>SystemSerialNumber</key>
@@ -1120,7 +1120,7 @@
 			<key>MinimumVolume</key>
 			<integer>50</integer>
 			<key>PlayChime</key>
-			<true/>
+			<string>Enabled</string>
 			<key>VolumeAmplifier</key>
 			<integer>120</integer>
 		</dict>
